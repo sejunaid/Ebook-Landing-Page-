@@ -1,0 +1,46 @@
+body {
+    font-family: 'Open Sans', sans-serif ;
+	background-color: #738D8E;
+}
+
+.left-header{
+    float:left;
+    padding-top: 20%;
+    padding-left: 10%;
+    color: white;
+}
+
+#paragraph{
+    width: 300px;
+}
+
+#input{
+    position: relative;
+    display: block;
+    margin-top: 10px;
+    width: 350px;
+    height: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100%;
+}
+
+#button{
+    background-color: red;
+    color: white;
+    margin-top: 10px;
+    width: 355px;
+    height: 40px;
+    font-size: 20px;
+}
+
+
+.Book-cover{
+    float:right;
+}
+
+#book{
+    width: 450px;
+    padding-right: 60px;
+
+}
+
